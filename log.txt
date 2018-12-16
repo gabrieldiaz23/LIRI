@@ -1,0 +1,24 @@
+movie-this space jamName of the movie: Space Jam
+,Year the movie came out: 1996
+,IMDb rating: 6.4
+,Rotten Tomatoes rating: 38%
+,Country: USA
+,Movie language: English
+,Actors: Michael Jordan, Wayne Knight, Theresa Randle, Manner Washington
+,Country: In a desperate attempt to win a basketball match and earn their freedom, the Looney Tunes seek the aid of retired basketball champion, Michael Jordan.
+
+-----------------------------------------
+
+spotify-this-song bad and boujeeArtist: Migos
+,Album: Culture
+,Song preview: https://p.scdn.co/mp3-preview/7692f502539573458844535e54f247643d2f7157?cid=e26153614b894f52a3867881c32f9838
+,Song name: Bad and Boujee (feat. Lil Uzi Vert)
+
+-----------------------------------------
+
+concert-this the weekndThe artist will be on: Makuhari Messe
+,Located in: Mihama Ward, Japan
+,Date of the concert: 2018-12-18T19:00:00
+
+-----------------------------------------
+
